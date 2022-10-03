@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:400;500;700');
+
+body,
+html,
+main {
+	font-family: Inconsolata, sans-serif !important;
+	background-color: rgb(39, 0, 41);
+	color: white;
+}
+
+.link-lighter {
+	color: rgb(255, 255, 255) !important;
+}
+
+.link-lighter:hover {
+	background-color: rgb(99, 99, 99) !important;
+}
+
+.imgs-div {
+	margin-left: 1rem;
+}
+
+.img-sizing {
+	width: 10rem;
+	height: 15rem;
+	margin-right: 3rem;
+}
+
+figcaption {
+	text-align: center;
+	margin-left: -3rem;
+}
